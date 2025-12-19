@@ -1,1 +1,1 @@
-AppVersion = 1.0 (remote update)
+AppVersion = 2.0 (remote update)

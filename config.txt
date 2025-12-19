@@ -1,1 +1,1 @@
-AppVersion = 2.0 (Local Update)
+AppVersion = 2.0 (Final Release - Merged)
